@@ -62,7 +62,7 @@ add_action('init', function(){
 
 ```
 
-The programming patterns of selection and delegate are part of a set of basic patterns that we typically use for wordpress plugins. Another pattern that we used without knowing it is called sequence. In the sequence pattern, which governs pretty much imperative programming code is executed an expression at a time from left to right top to bottom. For instance:
+The programming patterns of selection and delegate are part of a set of basic patterns that we typically use for wordpress plugins. Another pattern that we used without knowing it is called sequence. The sequence pattern governs pretty much all imperative programming. Code is executed an expression at a time from left to right top to bottom. For instance:
 
 ```
 
