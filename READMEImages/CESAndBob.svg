@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="325" height="100" viewBox="0, 0, 325, 100">
+  <g id="Layer_1">
+    <text transform="matrix(1, 0, 0, 1, 89.862, 50)">
+      <tspan x="-89.862" y="32.5" font-family="Chalkboard" font-size="95" fill="#FF0000">CES</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 244.503, 57)">
+      <tspan x="-90.497" y="29" font-family="Chalkboard" font-size="95" fill="#0000FF">BOB</tspan>
+    </text>
+  </g>
+  <g id="Layer_2">
+    <text transform="matrix(1, 0, 0, 1, 103.495, 12.5)">
+      <tspan x="-103.495" y="5.5" font-family="Chalkboard" font-size="18" fill="#000000">United Ways of California</tspan>
+    </text>
+  </g>
+  <g id="Layer_4">
+    <text transform="matrix(1, 0, 0, 1, 162.5, 66.5)">
+      <tspan x="-16.999" y="20.5" font-family="Chalkboard" font-size="60" fill="#EFF7FE">&amp;</tspan>
+    </text>
+  </g>
+  <g id="Layer_3">
+    <text transform="matrix(1, 0, 0, 1, 226.388, 92.5)">
+      <tspan x="-98.612" y="5.5" font-family="Chalkboard" font-size="18" fill="#000000">Build Your Own Business</tspan>
+    </text>
+  </g>
+</svg>
