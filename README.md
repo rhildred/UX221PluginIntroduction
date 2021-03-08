@@ -28,11 +28,11 @@ add_action('init', function(){
 
 One "orders" the piday plugin by activating it and putting a shortcode, `[piday-plugin]`, in your content. 
 
-![the shortcode](https://rhildred.github.io/UX320AngularPlugin/READMEImages/DaysTillPiDay.png "the shortcode")
+![the shortcode](READMEImages/DaysTillPiDay.png "the shortcode")
 
 But wait! When we view the results there are -9 days till piday. 
 
-![-9 days](https://rhildred.github.io/UX320AngularPlugin/READMEImages/Negative9Days.png "-9 days")
+![-9 days](READMEImages/Negative9Days.png "-9 days")
 
 We need to use the programming pattern called "selection" to deal with the case where pi-day is in the past.
 
@@ -90,7 +90,7 @@ add_action('init', function(){
 
 This produces the output:
 
-![left to right ... top to bottom](https://rhildred.github.io/UX320AngularPlugin/READMEImages/SequencePlugin.png "left to right ... top to bottom")
+![left to right ... top to bottom](READMEImages/SequencePlugin.png "left to right ... top to bottom")
 
 In class we also did a plugin using the repetition pattern.
 
